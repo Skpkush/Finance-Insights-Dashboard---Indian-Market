@@ -1,0 +1,7 @@
+yfinance
+streamlit
+pandas
+matplotlib
+plotly
+datetime
+capm_functions
